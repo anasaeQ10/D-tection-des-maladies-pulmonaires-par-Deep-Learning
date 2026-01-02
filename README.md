@@ -40,6 +40,8 @@ Le projet suit la méthodologie **CRISP-DM** :
   - 70 % entraînement
   - 15 % validation
   - 15 % test
+<img width="2234" height="731" alt="data_distribution" src="https://github.com/user-attachments/assets/44b8fe95-f584-4535-b0e6-2b56a39aefdf" />
+<img width="2232" height="730" alt="training_curves" src="https://github.com/user-attachments/assets/5da15e3a-a728-4359-ad36-518cdeda4de6" />
 
 ---
 
@@ -63,6 +65,10 @@ Le projet suit la méthodologie **CRISP-DM** :
 | ResNet50     | 72.15 %          |
 | DenseNet121  | **85.37 %** ✅   |
 
+<img width="1704" height="557" alt="models_comparison_table" src="https://github.com/user-attachments/assets/eba82553-7740-47e2-ba3d-19593c1f603a" />
+<img width="2194" height="882" alt="models_confusion_matrices" src="https://github.com/user-attachments/assets/4815d047-3cd1-481d-a9dc-843a20a32bba" />
+
+
 ### Performances clés (DenseNet121) :
 - 🔍 **Rappel pneumonie bactérienne** : **99.2 %**
 - ⚡ Inférence quasi instantanée
@@ -75,6 +81,10 @@ L’application a été développée avec **Streamlit** et permet :
 - Le chargement d’une radiographie
 - L’affichage de la classe prédite
 - La visualisation des probabilités associées à chaque classe
+![d_1](https://github.com/user-attachments/assets/ec660d26-8189-45c0-a430-787e931859dd)
+![d_2](https://github.com/user-attachments/assets/f7738d91-3c3c-4ff4-b921-abec9e3b5322)
+![d_3](https://github.com/user-attachments/assets/4a89132b-b983-427f-a61d-5bf9dd690232)
+![d_4](https://github.com/user-attachments/assets/87a6e76b-716b-49cd-a0c6-64a2e46e973b)
 
 ---
 
@@ -85,6 +95,8 @@ L’application a été développée avec **Streamlit** et permet :
 - **NumPy / Matplotlib**
 - **OpenCV**
 - **GPU NVIDIA GTX 1650 Super**
+<img width="2685" height="732" alt="models_per_class_comparison" src="https://github.com/user-attachments/assets/ab3193a7-be06-4866-89b9-bc0f351c954e" />
+<img width="1482" height="885" alt="models_metrics_comparison" src="https://github.com/user-attachments/assets/bae5a202-128e-4ce4-b2c7-85a3edbc9167" />
 
 ---
 
