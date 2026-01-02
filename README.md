@@ -67,6 +67,8 @@ Le projet suit la méthodologie **CRISP-DM** :
 
 <img width="1704" height="557" alt="models_comparison_table" src="https://github.com/user-attachments/assets/eba82553-7740-47e2-ba3d-19593c1f603a" />
 <img width="2194" height="882" alt="models_confusion_matrices" src="https://github.com/user-attachments/assets/4815d047-3cd1-481d-a9dc-843a20a32bba" />
+<img width="2685" height="732" alt="models_per_class_comparison" src="https://github.com/user-attachments/assets/ab3193a7-be06-4866-89b9-bc0f351c954e" />
+<img width="1482" height="885" alt="models_metrics_comparison" src="https://github.com/user-attachments/assets/bae5a202-128e-4ce4-b2c7-85a3edbc9167" />
 
 
 ### Performances clés (DenseNet121) :
@@ -95,8 +97,6 @@ L’application a été développée avec **Streamlit** et permet :
 - **NumPy / Matplotlib**
 - **OpenCV**
 - **GPU NVIDIA GTX 1650 Super**
-<img width="2685" height="732" alt="models_per_class_comparison" src="https://github.com/user-attachments/assets/ab3193a7-be06-4866-89b9-bc0f351c954e" />
-<img width="1482" height="885" alt="models_metrics_comparison" src="https://github.com/user-attachments/assets/bae5a202-128e-4ce4-b2c7-85a3edbc9167" />
 
 ---
 
